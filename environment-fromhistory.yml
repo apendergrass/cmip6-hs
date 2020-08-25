@@ -1,0 +1,14 @@
+name: cmip6
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - jupyterlab
+  - netcdf4
+  - matplotlib
+  - xarray
+  - scipy
+  - cartopy
+prefix: /Users/apgrass/miniconda3/envs/cmip6
+
